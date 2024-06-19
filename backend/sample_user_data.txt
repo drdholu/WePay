@@ -1,0 +1,49 @@
+Paytm users ->
+
+{
+    "username": "joe_dohn",
+    "firstName": "UPDATED",
+    "lastName": "Doe",
+    "password": "password"
+}
+{
+    "message": "User created successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyZjBjYThiZjZlZTFiYWYxYjJkM2YiLCJpYXQiOjE3MTg4MDg3Nzh9.ZsdQ_Er0uMP5q1_eZIN9HD9laickC98_9gUSI8BlqCw"
+}
+
+--
+
+{
+    "username": "second",
+    "firstName": "Dohn",
+    "lastName": "Brother",
+    "password": "password"
+}
+{
+    "message": "User created successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyZjExMDhiZjZlZTFiYWYxYjJkNDQiLCJpYXQiOjE3MTg4MDg4NDh9.wa2iTufrU2fEVgI2zdoHJcAsU8ADzpYRrXzddS9wVZ0"
+}
+
+--
+{
+    "username": "thirdjohnbro",
+    "firstName": "John",
+    "lastName": "thethird",
+    "password": "password"
+}
+{
+    "message": "User created successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyZjU2ZmUyNDI5ODgzN2Y2NmMyNTAiLCJpYXQiOjE3MTg4MDk5Njd9.lnGJaVfFj0QqHVLMH5sLi_lDGEC3IN_2HKdRRAJc1Gk"
+}
+
+--
+{
+    "username": "fourthJohnbro",
+    "firstName": "John",
+    "lastName": "thefourth",
+    "password": "password"
+}
+{
+    "message": "User created successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyZjVhNmUyNDI5ODgzN2Y2NmMyNTYiLCJpYXQiOjE3MTg4MTAwMjJ9.HLZECULmQTssWHCsAGORd6SIaRsN-D64PD27ychB_uM"
+}
